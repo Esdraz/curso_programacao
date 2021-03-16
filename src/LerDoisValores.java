@@ -13,6 +13,6 @@ public class LerDoisValores {
 
         System.out.println("Saída:");
         System.out.println("SOMA: " + soma);
-
+        sc.close();
     }
 }

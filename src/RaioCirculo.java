@@ -11,7 +11,6 @@ public class RaioCirculo {
         areaCirculo = raio * raio * 3.14159;
 
         System.out.printf("O valor da área do circulo é: %.4f", areaCirculo);
-
-
+        sc.close();
     }
 }

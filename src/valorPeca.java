@@ -18,6 +18,6 @@ public class valorPeca {
         valorAPagar = (valorUniPeca1 * numPeca1) + (valorUniPeca2 * numPeca2);
 
         System.out.printf("O VALOR A PAGAR: R$ %.2f",valorAPagar);
-
+        sc.close();
     }
 }

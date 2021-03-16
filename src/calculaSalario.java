@@ -16,5 +16,6 @@ public class calculaSalario {
 
         System.out.println("NUMBER = " + numFuncionario);
         System.out.printf("SALARY = U$ %.2f", salFuncionario);
+        sc.close();
     }
 }
