@@ -11,5 +11,6 @@ public class numNegOuPositivo {
         } else {
             System.out.println("Negativo");
         }
+        sc.close();
     }
 }

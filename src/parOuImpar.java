@@ -11,5 +11,6 @@ public class parOuImpar {
         } else {
             System.out.println("IMPAR");
         }
+        sc.close();
     }
 }

@@ -12,6 +12,6 @@ public class multiplos {
         } else {
             System.out.println("Não são Multiplos");
         }
-
+        sc.close();
     }
 }
