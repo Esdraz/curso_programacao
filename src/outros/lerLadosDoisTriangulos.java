@@ -1,3 +1,5 @@
+package outros;
+
 import entities.Triangle;
 
 import java.util.Scanner;

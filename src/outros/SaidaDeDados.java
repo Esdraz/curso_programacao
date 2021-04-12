@@ -1,3 +1,5 @@
+package outros;
+
 import java.util.Locale;
 
 public class SaidaDeDados {
